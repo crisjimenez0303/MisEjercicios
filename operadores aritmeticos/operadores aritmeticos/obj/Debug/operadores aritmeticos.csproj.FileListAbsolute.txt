@@ -1,0 +1,9 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\bin\Debug\operadores aritmeticos.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\obj\Debug\operadores aritmeticos.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\bin\Debug\operadores aritmeticos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\bin\Debug\operadores aritmeticos.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\obj\Debug\operadores aritmeticos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\operadores aritmeticos\operadores aritmeticos\obj\Debug\operadores aritmeticos.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\operadores aritmeticos\operadores aritmeticos\bin\Debug\operadores aritmeticos.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\operadores aritmeticos\operadores aritmeticos\obj\Debug\operadores aritmeticos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\operadores aritmeticos\operadores aritmeticos\obj\Debug\operadores aritmeticos.pdb

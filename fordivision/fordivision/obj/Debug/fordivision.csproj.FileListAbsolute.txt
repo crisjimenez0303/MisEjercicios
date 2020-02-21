@@ -4,3 +4,6 @@ C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\fordivis
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\fordivision\fordivision\bin\Debug\fordivision.pdb
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\fordivision\fordivision\obj\Debug\fordivision.exe
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\fordivision\fordivision\obj\Debug\fordivision.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\fordivision\fordivision\bin\Debug\fordivision.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\fordivision\fordivision\obj\Debug\fordivision.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\fordivision\fordivision\obj\Debug\fordivision.pdb
