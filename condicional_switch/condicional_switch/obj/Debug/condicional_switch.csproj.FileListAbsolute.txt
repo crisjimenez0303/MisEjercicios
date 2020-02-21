@@ -1,0 +1,6 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\bin\Debug\condicional_switch.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\obj\Debug\condicional_switch.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\obj\Debug\condicional_switch.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\condicional_switch\condicional_switch\obj\Debug\condicional_switch.pdb

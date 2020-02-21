@@ -1,0 +1,6 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.pdb

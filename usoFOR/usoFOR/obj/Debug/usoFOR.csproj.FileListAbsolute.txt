@@ -1,0 +1,2 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\usoFOR\usoFOR\bin\Debug\usoFOR.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\usoFOR\usoFOR\obj\Debug\usoFOR.csprojResolveAssemblyReference.cache
