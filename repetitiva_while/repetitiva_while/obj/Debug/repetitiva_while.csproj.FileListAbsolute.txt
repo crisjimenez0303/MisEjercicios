@@ -4,3 +4,6 @@ C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetiti
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.pdb
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.exe
 C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.pdb

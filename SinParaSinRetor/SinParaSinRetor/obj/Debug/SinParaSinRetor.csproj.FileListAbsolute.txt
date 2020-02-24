@@ -1,0 +1,6 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\bin\Debug\SinParaSinRetor.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\bin\Debug\SinParaSinRetor.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\bin\Debug\SinParaSinRetor.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\obj\Debug\SinParaSinRetor.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\obj\Debug\SinParaSinRetor.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\SinParaSinRetor\SinParaSinRetor\obj\Debug\SinParaSinRetor.pdb
