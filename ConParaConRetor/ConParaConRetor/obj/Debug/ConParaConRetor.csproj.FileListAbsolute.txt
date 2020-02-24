@@ -1,0 +1,6 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\bin\Debug\ConParaConRetor.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\bin\Debug\ConParaConRetor.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\bin\Debug\ConParaConRetor.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\obj\Debug\ConParaConRetor.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\obj\Debug\ConParaConRetor.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\ConParaConRetor\ConParaConRetor\obj\Debug\ConParaConRetor.pdb
