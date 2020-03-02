@@ -1,0 +1,9 @@
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\bin\Debug\Atributos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\bin\Debug\Atributos.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN CAMILO JIMENEZ\DAVID CALDERON\Atributos\Atributos\obj\Debug\Atributos.pdb
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\FORMACIÓN\Desktop\ADSI-CRISTIAN_CAMILO_JIMENEZ\DAVID_CALDERON\Atributos\Atributos\obj\Debug\Atributos.pdb
