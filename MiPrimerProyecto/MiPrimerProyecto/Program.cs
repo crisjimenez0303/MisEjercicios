@@ -7,8 +7,8 @@ namespace MiPrimerProyecto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola cristian");
-            Console.WriteLine("bienvenido a visual studio");
+            Console.WriteLine("hola mundo");
+            console.ReadLine("prueba de git");
             Console.ReadLine();
         }
     }
