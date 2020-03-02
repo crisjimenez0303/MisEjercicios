@@ -8,7 +8,7 @@ namespace MiPrimerProyecto
         static void Main(string[] args)
         {
             Console.WriteLine("hola mundo");
-            console.ReadLine("prueba de git");
+            console.WriteLine("prueba de git");
             Console.ReadLine();
         }
     }
